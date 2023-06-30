@@ -1,2 +1,2 @@
 # Fake-News-Detection-ISOT-Dataset
-Little university project focusing on decision tree models and natural explainability
+Little university group project focusing on decision tree models and natural explainability in cooperation with David Sitek.
